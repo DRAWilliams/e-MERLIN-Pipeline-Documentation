@@ -1,10 +1,7 @@
-Quick Start
-==========+
+Quick start
+=====
 
 .. _quickstart:
-
-Quick start
-------------
 
 If you have received calibrated data from the observatory and you want to refine the calibration, you can:
 
